@@ -636,7 +636,7 @@
 2. 数据类型(Data types)
 
    Spinal的数据类型类似于VHDL的：
-   
+
    |       VHDL       | SpinalHDL |
    | :--------------: | :-------: |
    |    std_logic     |   Bool    |
