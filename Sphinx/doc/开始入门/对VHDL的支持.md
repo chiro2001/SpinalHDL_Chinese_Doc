@@ -660,7 +660,7 @@
    }
    ```
 
-   之后如果想实例化一个`Bundle`, 需要写``val myColor = RGB(channelWidth=8)`.
+   之后如果想实例化一个`Bundle`, 需要写`val myColor = RGB(channelWidth=8)`.
 
 3. 信号(Signal)
 
